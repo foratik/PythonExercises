@@ -133,7 +133,7 @@ header h1 {
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.4s ease, padding 0.4s ease;
-    background: var(--card-bg);
+    background: rgba(230, 240, 250, 0.85);
     border-radius: 0 0 15px 15px;
     padding: 0;
     position: relative;
@@ -177,6 +177,9 @@ header h1 {
 
 .video-icon {
     font-size: 1.3rem;
+    display: inline-flex;
+    align-items: center;
+    vertical-align: middle;
 }
 
 .video-card p {
@@ -208,6 +211,9 @@ header h1 {
 
 .download-icon {
     font-size: 1.1rem;
+    display: inline-flex;
+    align-items: center;
+    vertical-align: middle;
 }
 
 footer {
