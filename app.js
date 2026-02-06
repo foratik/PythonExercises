@@ -35,7 +35,7 @@ function parseMarkdown(markdown) {
             if (currentVideo) {
                 currentVideo.description = line.replace(/- \*\*توضیحات:\*\*/, '').replace(/- توضیحات:/, '').trim();
             }
-        } else if (line.includes('[دانلود](') || line.includes('[لینک](')) {
+        } else if (line.includes('[بارگیری](') || line.includes('[دانلود](') || line.includes('[لینک](')) {
             if (currentVideo) {
                 const linkMatch = line.match(/\[([^\]]+)\]\(([^)]+)\)/);
                 if (linkMatch) {
@@ -85,7 +85,7 @@ function renderExercises(exercises) {
                 ${video.description ? `<p>${video.description}</p>` : ''}
                 <a href="${video.link}" class="download-btn" target="_blank" rel="noopener">
                     <span class="download-icon">⬇</span>
-                    دانلود ویدیو
+                    بارگیری ویدیو
                 </a>
             `;
             videoGrid.appendChild(card);

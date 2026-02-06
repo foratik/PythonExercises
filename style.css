@@ -23,12 +23,12 @@
 }
 
 :root {
-    --primary: #6366f1;
-    --primary-dark: #4f46e5;
-    --secondary: #8b5cf6;
-    --accent: #a78bfa;
-    --bg-gradient-start: #1e1b4b;
-    --bg-gradient-end: #312e81;
+    --primary: #2196F3;
+    --primary-dark: #1976D2;
+    --secondary: #42A5F5;
+    --accent: #64B5F6;
+    --bg-gradient-start: #D6EAF8;
+    --bg-gradient-end: #AED6F1;
     --card-bg: rgba(255, 255, 255, 0.95);
     --card-hover: rgba(255, 255, 255, 1);
     --text-dark: #1f2937;
@@ -55,7 +55,7 @@ header {
     text-align: center;
     margin-bottom: 3rem;
     padding: 2rem 1rem;
-    background: rgba(255, 255, 255, 0.1);
+    background: linear-gradient(135deg, #1565C0 0%, #0D47A1 100%);
     backdrop-filter: blur(10px);
     border-radius: 20px;
     box-shadow: var(--shadow-lg);
@@ -198,12 +198,12 @@ header h1 {
     transition: all 0.3s ease;
     font-weight: bold;
     font-size: 0.95rem;
-    box-shadow: 0 2px 4px rgba(99, 102, 241, 0.3);
+    box-shadow: 0 2px 4px rgba(33, 150, 243, 0.3);
 }
 
 .download-btn:hover {
     transform: scale(1.05);
-    box-shadow: 0 4px 8px rgba(99, 102, 241, 0.5);
+    box-shadow: 0 4px 8px rgba(33, 150, 243, 0.5);
 }
 
 .download-icon {
@@ -215,7 +215,7 @@ footer {
     margin-top: 3rem;
     padding: 2rem;
     color: white;
-    background: rgba(255, 255, 255, 0.1);
+    background: linear-gradient(135deg, #1565C0 0%, #0D47A1 100%);
     backdrop-filter: blur(10px);
     border-radius: 15px;
 }
