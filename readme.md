@@ -18,19 +18,19 @@
 
 ### پرسش ۱: ماشین حساب
 - **توضیحات:** دریافت و پردازش ورودی با تعداد نامشخص
-- [دانلود](https://dl.micro-master.ir/Resources/2010/14044/A2/Q1.mp4
+- [دانلود](https://dl.micro-master.ir/Resources/2010/14044/A2/Q1.mp4)
 
 ### پرسش ۲: محاسبۀ لگاریتم طبیعی!
 - **توضیحات:** آشنایی با حلقه‌ها
-- [دانلود](https://dl.micro-master.ir/Resources/2010/14044/A2/Q2.mp4
+- [دانلود](https://dl.micro-master.ir/Resources/2010/14044/A2/Q2.mp4)
 
 ### پرسش ۳: رمز صندوق
 - **توضیحات:** حلقه‌ها و جدا کردن ارقام یک عدد
-- [دانلود](https://dl.micro-master.ir/Resources/2010/14044/A2/Q3.mp4
+- [دانلود](https://dl.micro-master.ir/Resources/2010/14044/A2/Q3.mp4)
 
 ### پرسش ۴: سنگ، کاغذ، قیچی
 - **توضیحات:** شبیه‌سازی بازی سنگ، کاغذ، قیچی
-- [دانلود](https://dl.micro-master.ir/Resources/2010/14044/A2/Q4.mp4
+- [دانلود](https://dl.micro-master.ir/Resources/2010/14044/A2/Q4.mp4)
 
 ## تمرین سوم - تابع و ماژول
 
